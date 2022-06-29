@@ -8,11 +8,11 @@ As the coronavirus pandemic of 2020 ravaged cities big and small, traditional sm
 Bonacorsi family farms of Upper Deerfield is a small community food provider that has been in the Bonacorsi family for five generations. Due to the impact of the coronavirus pandemic, the business has sharply declined, and without decisive help, the coming collapse of another small business is in order.<br><br>
 Our team, T4 has been dispatched to re-connect local consumers with their community vendor of fruits. We aim to empower small businesses in these trying times by modernizing their technological reach while keeping both business and customers happy and safe.
 
-### Tools Used
-- MS Visio, Lucidchart, Wix
-
 ### System Breakdown
 We will construct a new strategy for Bonacorsi family farm's customer-facing interface systems. For this project, we will be creating a website, database, inventory planning, and customer allocation system, allowing Bonacorsi to continue interacting with local customers safely during the coronavirus pandemic.
+
+### Tools Used
+- MS Visio, Lucidchart, Wix
 
 ### Goals for the System
 - Streamline Bonacorsi Farm’s Technical capabilities
