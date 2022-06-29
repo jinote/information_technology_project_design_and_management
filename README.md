@@ -21,14 +21,14 @@ We will construct a new strategy for Bonacorsi family farm's customer-facing int
 
 ### System Representation
 #### Data Flow Diagram
-![Alt text](https://github.com/jinote/information_technology_project_design_and_management-/blob/main/Data%20Flow%20Diagrams-level0.jpeg)
+![Alt text](https://github.com/jinote/information_technology_project_design_and_management/blob/main/Data%20Flow%20Diagrams-level0.jpeg)
 
 #### Database Design (ERD)
-![Alt text](https://github.com/jinote/information_technology_project_design_and_management-/blob/main/Database%20Deisgn-ERD.jpg)
+![Alt text](https://github.com/jinote/information_technology_project_design_and_management/blob/main/Database%20Deisgn-ERD.jpg)
 
 #### Website Design (1)
-![Alt text](https://github.com/jinote/information_technology_project_design_and_management-/blob/main/website1.jpg)
+![Alt text](https://github.com/jinote/information_technology_project_design_and_management/blob/main/website1.jpg)
 
 
 #### Website Design (2)
-![Alt text](https://github.com/jinote/information_technology_project_design_and_management-/blob/main/website2.jpg)
+![Alt text](https://github.com/jinote/information_technology_project_design_and_management/blob/main/website2.jpg)
